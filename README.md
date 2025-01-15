@@ -6,6 +6,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+I used in the project some flutter packages like AwesomeSnackbar ,
+SharedPreferences ,Cubit ,some animations 
 
 A few resources to get you started if this is your first Flutter project:
 
